@@ -1,0 +1,26 @@
+/*Général*/
+body{
+    text-align: center;
+    font-family : 'Arial', cursive ;
+background-image:url("./images/marbreblanc.webp");
+}
+table,tr,td
+{
+    padding: 10px 15px;
+
+}
+table{
+    margin: auto;
+border: 2px solid black;
+}
+body
+{
+background-color: rgb(220, 245, 245);
+color:black;
+}
+i:hover{
+    color: blueviolet;
+}
+i{
+    color: black;
+}

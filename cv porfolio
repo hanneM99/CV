@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mon CV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    
+    h1 {
+      text-align: center;
+    }
+    
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .name {
+      font-size: 24px;
+      font-weight: bold;
+    }
+    
+    .contact {
+      margin-bottom: 10px;
+    }
+    
+    .section {
+      margin-bottom: 20px;
+    }
+    
+    .section h2 {
+      margin-bottom: 10px;
+    }
+    
+    .section p {
+      margin-bottom: 5px;
+    }
+    
+    .section ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    .section li {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Mon CV</h1>
+    <div class="name">Votre nom</div>
+    <div class="contact">
+      Adresse | Téléphone | Email
+    </div>
+  </div>
+  
+  <div class="section">
+    <h2>Expérience professionnelle</h2>
+    <p>Titre du poste, Entreprise</p>
+    <p>Période</p>
+    <ul>
+      <li>Description des responsabilités et réalisations</li>
+      <li>Description des responsabilités et réalisations</li>
+    </ul>
+  </div>
+  
+  <div class="section">
+    <h2>Formation</h2>
+    <p>Diplôme, Institution</p>
+    <p>Période</p>
+    <ul>
+      <li>Description des cours et des compétences acquises</li>
+      <li>Description des cours et des compétences acquises</li>
+    </ul>
+  </div>
+  
+  <div class="section">
+    <h2>Compétences</h2>
+    <ul>
+      <li>Compétence 1</li>
+      <li>Compétence 2</li>
+      <li>Compétence 3</li>
+    </ul>
+  </div>
+</body>
+</html>
